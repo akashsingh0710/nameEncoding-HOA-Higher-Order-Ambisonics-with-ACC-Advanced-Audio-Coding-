@@ -1,0 +1,1 @@
+faad.exe encoded_input.aac
